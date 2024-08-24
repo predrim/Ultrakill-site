@@ -1,0 +1,52 @@
+
+body
+{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed;
+}
+
+#chars
+{
+    background-image: url(../imgs/chars.jpeg);
+}
+
+#weapons
+{
+    background-image: url(../imgs/weapons.webp);
+}
+
+#limbo
+{
+    background-image: url(../imgs/limbo.jpg);
+}
+
+#lust
+{
+    background-image: url(../imgs/lust.jpg);
+}
+
+#gluttony
+{
+    background-image: url(../imgs/gluttony.jpg);
+}
+
+#greed
+{
+    background-image: url(../imgs/greed.jpg);
+}
+
+#wrath
+{
+    background-image: url(../imgs/ira.jpg); 
+}
+
+#heresy
+{
+    background-image: url(../imgs/heresia.webp);
+}
+
+#violence
+{
+    background-image: url(../imgs/violencia.webp);
+}
